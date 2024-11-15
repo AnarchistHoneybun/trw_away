@@ -1,0 +1,12 @@
+[package]
+name = "random_art"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.5"
+imageproc = "0.25"
+ab_glyph = "0.2"
+rand = "0.8"
+rand_chacha = "0.3"
+sha1 = "0.10"
